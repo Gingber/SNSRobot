@@ -1,0 +1,90 @@
+ INFO 2014-07-19 11:49:30 [main] [DbOperation.java:80] - ConDB 初始化
+   INFO 2014-07-19 11:49:34 [main] [AdvanceLoginManager.java:135] - 登陆成功 with User:	networktest3@126.com
+   INFO 2014-07-19 11:49:34 [main] [AdvanceLoginManager.java:136] - Success Login  OK
+  DEBUG 2014-07-19 11:49:37 [pool-3-thread-1] [WebOperationAjax.java:75] - The Retry[0] OpenLink with Address:/ajax/ufi/add_comment.php
+  DEBUG 2014-07-19 11:49:41 [main] [FacebookCommentRobot.java:100] - Successfully sent a new comment: ["Here's a STEM idea for you that could reduce school shootings. We should microchip guns and install smart doorways which will shut down the use of the gun upon entering the building while simultaneously notifying the office and the police. We have the technology I'm sure a transition away from traditional guns can be set up or a method to upgrade traditional guns. All great ideas start with a basic concept. Hopefully someone will take this concept which is a very valuable idea and make it into something great.] to [771837526189349]
+   INFO 2014-07-19 11:49:41 [main] [DbOperation.java:80] - ConDB 初始化
+  DEBUG 2014-07-19 11:49:41 [main] [AdvanceLoginManager.java:192] - 准备进行用户登录操作
+  DEBUG 2014-07-19 11:49:43 [main] [AdvanceLoginManager.java:202] - Login form get: HTTP/1.1 200 OK
+  DEBUG 2014-07-19 11:49:43 [main] [AdvanceLoginManager.java:204] - Initial set of cookies:
+  DEBUG 2014-07-19 11:49:43 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: datr][value: 1OrJU2ZK0gEIxExRTZXS1xM9][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:49:40 CST 2016]
+  DEBUG 2014-07-19 11:49:43 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  DEBUG 2014-07-19 11:49:43 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  DEBUG 2014-07-19 11:49:44 [main] [AdvanceLoginManager.java:223] - Login form get: HTTP/1.1 302 forced.302
+  DEBUG 2014-07-19 11:49:44 [main] [AdvanceLoginManager.java:225] - Post logon cookies:
+   INFO 2014-07-19 11:49:44 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: checkpoint][value: %7B%22u%22%3A100006123346695%2C%22t%22%3A1405741782%2C%22ca%22%3Anull%2C%22step%22%3A0%2C%22n%22%3A%22wQdBYwDQ2kE%3D%22%2C%22inst%22%3A%221506204412926989%22%2C%22f%22%3A192147434196754%2C%22la%22%3Anull%2C%22ln%22%3Anull%2C%22al%22%3Anull%2C%22ta%22%3A%22AQA7R3V5Svm2dXYW%22%2C%22ssp%22%3A1%2C%22st%22%3A%22c%22%2C%22hlcp%22%3Anull%2C%22s%22%3A%22AWWjEmohG2XymZWl%22%2C%22cs%22%3Anull%7D][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:49:44 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: datr][value: 1OrJU2ZK0gEIxExRTZXS1xM9][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:49:41 CST 2016]
+   INFO 2014-07-19 11:49:44 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: locale][value: zh_CN][domain: .facebook.com][path: /][expiry: Sat Jul 26 11:49:42 CST 2014]
+   INFO 2014-07-19 11:49:44 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:49:44 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:49:44 [main] [AdvanceLoginManager.java:242] - Fail To Login To Facebook RM the datFile
+   INFO 2014-07-19 11:49:44 [main] [AdvanceLoginManager.java:268] - 登录失败with Userzhangqiangpi@gmail.com Passwordranfen007
+  DEBUG 2014-07-19 11:49:44 [pool-3-thread-1] [WebOperationAjax.java:75] - The Retry[0] OpenLink with Address:/ajax/ufi/add_comment.php
+   INFO 2014-07-19 11:49:47 [main] [DbOperation.java:80] - ConDB 初始化
+   INFO 2014-07-19 11:49:50 [main] [AdvanceLoginManager.java:135] - 登陆成功 with User:	gybeduct@hotmail.co.jp
+   INFO 2014-07-19 11:49:50 [main] [AdvanceLoginManager.java:136] - Success Login  OK
+  DEBUG 2014-07-19 11:49:53 [pool-3-thread-1] [WebOperationAjax.java:75] - The Retry[0] OpenLink with Address:/ajax/ufi/add_comment.php
+  DEBUG 2014-07-19 11:49:56 [main] [FacebookCommentRobot.java:100] - Successfully sent a new comment: [A closer look at the United States and found that he never caused domestic strife, there are signs of a strangles immediately (eg Wall Street movement, the black movement of the 1960s, and so on) to kill it, because he knew that business people need most is stability. When unrest in other countries when it seemed to him the most secure capital flows on both of his place. It reinforces the status of the dollar. In fact, several major powers such as China and Russia see this point, only the Muslim countries in the Middle East and Africa, with the United States under the banner of democracy have to move flicker.] to [771837526189349]
+   INFO 2014-07-19 11:49:56 [main] [DbOperation.java:80] - ConDB 初始化
+  DEBUG 2014-07-19 11:49:56 [main] [AdvanceLoginManager.java:192] - 准备进行用户登录操作
+  DEBUG 2014-07-19 11:49:58 [main] [AdvanceLoginManager.java:202] - Login form get: HTTP/1.1 200 OK
+  DEBUG 2014-07-19 11:49:58 [main] [AdvanceLoginManager.java:204] - Initial set of cookies:
+  DEBUG 2014-07-19 11:49:58 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: datr][value: 5OrJUz0Sk7PFM1mkBNp3QFcf][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:49:56 CST 2016]
+  DEBUG 2014-07-19 11:49:58 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  DEBUG 2014-07-19 11:49:58 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  DEBUG 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:223] - Login form get: HTTP/1.1 302 forced.302
+  DEBUG 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:225] - Post logon cookies:
+   INFO 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: c_user][value: 100005010825606][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: csm][value: 2][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: datr][value: 5OrJUz0Sk7PFM1mkBNp3QFcf][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:49:56 CST 2016]
+   INFO 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: fr][value: 0gWUEWLSuaiPe0ABW.AWXInKzN-aSn49sY_wnCR64Sa8k.BTyerl.xu.AAA.AWWd72C0][domain: .facebook.com][path: /][expiry: Mon Aug 18 11:49:57 CST 2014]
+   INFO 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: lu][value: RgHxjmAzdveFOh1Yt7-WzaiQ][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:49:57 CST 2016]
+   INFO 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: s][value: Aa7_BPbTJxn1Ipnv.BTyerl][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: xs][value: 106%3AUuHgSuOG0bsWmQ%3A2%3A1405741797%3A17079][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:235] - Success To Login To Facebook
+   INFO 2014-07-19 11:49:59 [main] [AdvanceLoginManager.java:240] - Success To Save Cookies
+   INFO 2014-07-19 11:50:01 [main] [AdvanceLoginManager.java:262] - 登陆成功with Usershalebrighqdfqkh@gmail.com Passwordksttbreastrec
+  DEBUG 2014-07-19 11:50:04 [pool-3-thread-1] [WebOperationAjax.java:75] - The Retry[0] OpenLink with Address:/ajax/ufi/add_comment.php
+  DEBUG 2014-07-19 11:50:06 [main] [FacebookCommentRobot.java:100] - Successfully sent a new comment: [Please American whereabouts of people were killed in Japan to apologize, you are the real murderer, a total of how many people died?] to [771837526189349]
+   INFO 2014-07-19 11:50:06 [main] [DbOperation.java:80] - ConDB 初始化
+  DEBUG 2014-07-19 11:50:06 [main] [AdvanceLoginManager.java:192] - 准备进行用户登录操作
+  DEBUG 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:202] - Login form get: HTTP/1.1 200 OK
+  DEBUG 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:204] - Initial set of cookies:
+  DEBUG 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: datr][value: 7urJUy7tSJq5DiishobYEbfA][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:50:06 CST 2016]
+  DEBUG 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  DEBUG 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  DEBUG 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:223] - Login form get: HTTP/1.1 302 forced.302
+  DEBUG 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:225] - Post logon cookies:
+   INFO 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: checkpoint][value: %7B%22u%22%3A100007739535558%2C%22t%22%3A1405741807%2C%22ca%22%3Anull%2C%22step%22%3A0%2C%22n%22%3A%22g%5C%2F2Ok0VaaUw%3D%22%2C%22inst%22%3A%221442979762636661%22%2C%22f%22%3A332688270171819%2C%22la%22%3Anull%2C%22ln%22%3Anull%2C%22al%22%3Anull%2C%22ta%22%3A%22AQCnTw1_2EJv1L-u%22%2C%22ssp%22%3A1%2C%22st%22%3A%22c%22%2C%22hlcp%22%3Anull%2C%22s%22%3A%22AWU4tIHLmsRPXvwK%22%2C%22cs%22%3Anull%7D][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: datr][value: 7urJUy7tSJq5DiishobYEbfA][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:50:07 CST 2016]
+   INFO 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: locale][value: zh_CN][domain: .facebook.com][path: /][expiry: Sat Jul 26 11:50:07 CST 2014]
+   INFO 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:50:09 [main] [AdvanceLoginManager.java:242] - Fail To Login To Facebook RM the datFile
+   INFO 2014-07-19 11:50:10 [main] [AdvanceLoginManager.java:268] - 登录失败with Usertianxiaofang25@gmail.com Passwordhatanwyun
+  DEBUG 2014-07-19 11:50:10 [pool-3-thread-1] [WebOperationAjax.java:75] - The Retry[0] OpenLink with Address:/ajax/ufi/add_comment.php
+   INFO 2014-07-19 11:50:12 [main] [DbOperation.java:80] - ConDB 初始化
+   INFO 2014-07-19 11:50:15 [main] [AdvanceLoginManager.java:135] - 登陆成功 with User:	minglitianjin@gmail.com
+   INFO 2014-07-19 11:50:15 [main] [AdvanceLoginManager.java:136] - Success Login  OK
+  DEBUG 2014-07-19 11:50:17 [pool-3-thread-1] [WebOperationAjax.java:75] - The Retry[0] OpenLink with Address:/ajax/ufi/add_comment.php
+  DEBUG 2014-07-19 11:50:20 [main] [FacebookCommentRobot.java:100] - Successfully sent a new comment: [A bunch of junk. LO!] to [771837526189349]
+   INFO 2014-07-19 11:50:20 [main] [DbOperation.java:80] - ConDB 初始化
+  DEBUG 2014-07-19 11:50:20 [main] [AdvanceLoginManager.java:192] - 准备进行用户登录操作
+  DEBUG 2014-07-19 11:50:22 [main] [AdvanceLoginManager.java:202] - Login form get: HTTP/1.1 200 OK
+  DEBUG 2014-07-19 11:50:22 [main] [AdvanceLoginManager.java:204] - Initial set of cookies:
+  DEBUG 2014-07-19 11:50:22 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: datr][value: _OrJU2F4aL_cdDgS1qaEHzLo][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:50:20 CST 2016]
+  DEBUG 2014-07-19 11:50:22 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  DEBUG 2014-07-19 11:50:22 [main] [AdvanceLoginManager.java:210] - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  DEBUG 2014-07-19 11:50:23 [main] [AdvanceLoginManager.java:223] - Login form get: HTTP/1.1 302 forced.302
+  DEBUG 2014-07-19 11:50:23 [main] [AdvanceLoginManager.java:225] - Post logon cookies:
+   INFO 2014-07-19 11:50:23 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: checkpoint][value: %7B%22u%22%3A100006668685556%2C%22t%22%3A1405741821%2C%22ca%22%3Anull%2C%22step%22%3A0%2C%22n%22%3A%221XmfFHEz3c8%3D%22%2C%22inst%22%3A%221511174119114863%22%2C%22f%22%3A192147434196754%2C%22la%22%3Anull%2C%22ln%22%3Anull%2C%22al%22%3Anull%2C%22ta%22%3A%22AQCVnT5StJJSQN5O%22%2C%22ssp%22%3A1%2C%22st%22%3A%22c%22%2C%22hlcp%22%3Anull%2C%22s%22%3A%22AWVXvWeqtR3oikYQ%22%2C%22cs%22%3Anull%7D][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:50:23 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: datr][value: _OrJU2F4aL_cdDgS1qaEHzLo][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:50:20 CST 2016]
+   INFO 2014-07-19 11:50:23 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: locale][value: zh_CN][domain: .facebook.com][path: /][expiry: Sat Jul 26 11:50:21 CST 2014]
+   INFO 2014-07-19 11:50:23 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:50:23 [main] [AdvanceLoginManager.java:233] - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+   INFO 2014-07-19 11:50:23 [main] [AdvanceLoginManager.java:242] - Fail To Login To Facebook RM the datFile
+   INFO 2014-07-19 11:50:23 [main] [AdvanceLoginManager.java:268] - 登录失败with Useryuqingwind@gmail.com Passwordiie123456
+  DEBUG 2014-07-19 11:50:23 [pool-3-thread-1] [WebOperationAjax.java:75] - The Retry[0] OpenLink with Address:/ajax/ufi/add_comment.php
+  

@@ -1,0 +1,50 @@
+ INFO 2014-07-19 11:49:30 [main] (DbOperation.java:80) - ConDB 初始化
+  INFO 2014-07-19 11:49:34 [main] (AdvanceLoginManager.java:135) - 登陆成功 with User:	networktest3@126.com
+  INFO 2014-07-19 11:49:34 [main] (AdvanceLoginManager.java:136) - Success Login  OK
+  INFO 2014-07-19 11:49:41 [main] (DbOperation.java:80) - ConDB 初始化
+  INFO 2014-07-19 11:49:44 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: checkpoint][value: %7B%22u%22%3A100006123346695%2C%22t%22%3A1405741782%2C%22ca%22%3Anull%2C%22step%22%3A0%2C%22n%22%3A%22wQdBYwDQ2kE%3D%22%2C%22inst%22%3A%221506204412926989%22%2C%22f%22%3A192147434196754%2C%22la%22%3Anull%2C%22ln%22%3Anull%2C%22al%22%3Anull%2C%22ta%22%3A%22AQA7R3V5Svm2dXYW%22%2C%22ssp%22%3A1%2C%22st%22%3A%22c%22%2C%22hlcp%22%3Anull%2C%22s%22%3A%22AWWjEmohG2XymZWl%22%2C%22cs%22%3Anull%7D][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:49:44 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: datr][value: 1OrJU2ZK0gEIxExRTZXS1xM9][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:49:41 CST 2016]
+  INFO 2014-07-19 11:49:44 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: locale][value: zh_CN][domain: .facebook.com][path: /][expiry: Sat Jul 26 11:49:42 CST 2014]
+  INFO 2014-07-19 11:49:44 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:49:44 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:49:44 [main] (AdvanceLoginManager.java:242) - Fail To Login To Facebook RM the datFile
+  INFO 2014-07-19 11:49:44 [main] (AdvanceLoginManager.java:268) - 登录失败with Userzhangqiangpi@gmail.com Passwordranfen007
+ ERROR 2014-07-19 11:49:44 [main] (AdvanceLoginManager.java:178) - 注意，当前账户 id = 11 无法正常使用
+  INFO 2014-07-19 11:49:47 [main] (DbOperation.java:80) - ConDB 初始化
+  INFO 2014-07-19 11:49:50 [main] (AdvanceLoginManager.java:135) - 登陆成功 with User:	gybeduct@hotmail.co.jp
+  INFO 2014-07-19 11:49:50 [main] (AdvanceLoginManager.java:136) - Success Login  OK
+  INFO 2014-07-19 11:49:56 [main] (DbOperation.java:80) - ConDB 初始化
+  INFO 2014-07-19 11:49:59 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: c_user][value: 100005010825606][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:49:59 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: csm][value: 2][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:49:59 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: datr][value: 5OrJUz0Sk7PFM1mkBNp3QFcf][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:49:56 CST 2016]
+  INFO 2014-07-19 11:49:59 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: fr][value: 0gWUEWLSuaiPe0ABW.AWXInKzN-aSn49sY_wnCR64Sa8k.BTyerl.xu.AAA.AWWd72C0][domain: .facebook.com][path: /][expiry: Mon Aug 18 11:49:57 CST 2014]
+  INFO 2014-07-19 11:49:59 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: lu][value: RgHxjmAzdveFOh1Yt7-WzaiQ][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:49:57 CST 2016]
+  INFO 2014-07-19 11:49:59 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:49:59 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:49:59 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: s][value: Aa7_BPbTJxn1Ipnv.BTyerl][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:49:59 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: xs][value: 106%3AUuHgSuOG0bsWmQ%3A2%3A1405741797%3A17079][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:49:59 [main] (AdvanceLoginManager.java:235) - Success To Login To Facebook
+  INFO 2014-07-19 11:49:59 [main] (AdvanceLoginManager.java:240) - Success To Save Cookies
+  INFO 2014-07-19 11:50:01 [main] (AdvanceLoginManager.java:262) - 登陆成功with Usershalebrighqdfqkh@gmail.com Passwordksttbreastrec
+  INFO 2014-07-19 11:50:06 [main] (DbOperation.java:80) - ConDB 初始化
+  INFO 2014-07-19 11:50:09 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: checkpoint][value: %7B%22u%22%3A100007739535558%2C%22t%22%3A1405741807%2C%22ca%22%3Anull%2C%22step%22%3A0%2C%22n%22%3A%22g%5C%2F2Ok0VaaUw%3D%22%2C%22inst%22%3A%221442979762636661%22%2C%22f%22%3A332688270171819%2C%22la%22%3Anull%2C%22ln%22%3Anull%2C%22al%22%3Anull%2C%22ta%22%3A%22AQCnTw1_2EJv1L-u%22%2C%22ssp%22%3A1%2C%22st%22%3A%22c%22%2C%22hlcp%22%3Anull%2C%22s%22%3A%22AWU4tIHLmsRPXvwK%22%2C%22cs%22%3Anull%7D][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:50:09 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: datr][value: 7urJUy7tSJq5DiishobYEbfA][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:50:07 CST 2016]
+  INFO 2014-07-19 11:50:09 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: locale][value: zh_CN][domain: .facebook.com][path: /][expiry: Sat Jul 26 11:50:07 CST 2014]
+  INFO 2014-07-19 11:50:09 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:50:09 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:50:09 [main] (AdvanceLoginManager.java:242) - Fail To Login To Facebook RM the datFile
+  INFO 2014-07-19 11:50:10 [main] (AdvanceLoginManager.java:268) - 登录失败with Usertianxiaofang25@gmail.com Passwordhatanwyun
+ ERROR 2014-07-19 11:50:10 [main] (AdvanceLoginManager.java:178) - 注意，当前账户 id = 9 无法正常使用
+  INFO 2014-07-19 11:50:12 [main] (DbOperation.java:80) - ConDB 初始化
+  INFO 2014-07-19 11:50:15 [main] (AdvanceLoginManager.java:135) - 登陆成功 with User:	minglitianjin@gmail.com
+  INFO 2014-07-19 11:50:15 [main] (AdvanceLoginManager.java:136) - Success Login  OK
+  INFO 2014-07-19 11:50:20 [main] (DbOperation.java:80) - ConDB 初始化
+  INFO 2014-07-19 11:50:23 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: checkpoint][value: %7B%22u%22%3A100006668685556%2C%22t%22%3A1405741821%2C%22ca%22%3Anull%2C%22step%22%3A0%2C%22n%22%3A%221XmfFHEz3c8%3D%22%2C%22inst%22%3A%221511174119114863%22%2C%22f%22%3A192147434196754%2C%22la%22%3Anull%2C%22ln%22%3Anull%2C%22al%22%3Anull%2C%22ta%22%3A%22AQCVnT5StJJSQN5O%22%2C%22ssp%22%3A1%2C%22st%22%3A%22c%22%2C%22hlcp%22%3Anull%2C%22s%22%3A%22AWVXvWeqtR3oikYQ%22%2C%22cs%22%3Anull%7D][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:50:23 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: datr][value: _OrJU2F4aL_cdDgS1qaEHzLo][domain: .facebook.com][path: /][expiry: Mon Jul 18 11:50:20 CST 2016]
+  INFO 2014-07-19 11:50:23 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: locale][value: zh_CN][domain: .facebook.com][path: /][expiry: Sat Jul 26 11:50:21 CST 2014]
+  INFO 2014-07-19 11:50:23 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: reg_fb_gate][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:50:23 [main] (AdvanceLoginManager.java:233) - - [version: 0][name: reg_fb_ref][value: https%3A%2F%2Fwww.facebook.com%2F][domain: .facebook.com][path: /][expiry: null]
+  INFO 2014-07-19 11:50:23 [main] (AdvanceLoginManager.java:242) - Fail To Login To Facebook RM the datFile
+  INFO 2014-07-19 11:50:23 [main] (AdvanceLoginManager.java:268) - 登录失败with Useryuqingwind@gmail.com Passwordiie123456
+ ERROR 2014-07-19 11:50:23 [main] (AdvanceLoginManager.java:178) - 注意，当前账户 id = 13 无法正常使用
+ 
